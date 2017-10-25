@@ -17,7 +17,7 @@
 #dos estômagos dividido pelo tamanho do animal guardando o resultado em um **vetor** 'igs'
 #6-Adicione o vetor 'igs' como uma coluna no objeto dados1 de modo a manter a integridade do **data frame** dados1
 #7-Crie um data frame nomeado st_darwin que contenha somente os dados de Saint Darwin
-#Crie um data frame nomeado cp.machos que contenha somente os dados de fêmeas de Cabo Pianka
+#Crie um data frame nomeado cp.machos que contenha somente os dados de machos de Cabo Pianka
 #8-Obtenha a média o desvio padrão para cada um dos sexos de cada uma das localidades
 #para as variáveis Tamanho, inicio do canto e  igs
 #9-Crie um **data frame** que contenha os valores de sexo e de temperatura ordenados por temperatura.
